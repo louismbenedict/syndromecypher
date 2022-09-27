@@ -1,4 +1,6 @@
-### Bienvenue sur mon profil Github ! 👋
+# Bienvenue sur mon profil Github ! 👋
+Salut, je me présente, moi c'est Lou ! 
+Je me forme actuellement en autodidacte pour devenir Développeur Web.
 
 ## Language et outils : </br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -7,7 +9,7 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## En apprentissage/perfectionnement: </br>
+## En apprentissage et perfectionnement: </br>
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Ce que je veux apprendre: </br>
@@ -15,6 +17,7 @@
 ![Typescript.JS](https://img.shields.io/badge/TYPESCRIPT.JS-FFFFFF?style=for-the-badge&logo=typescript)
 
 ## Mes objectifs: </br>
+Je souhaite devenir un excellent développeur front-end. Je veux être capable de construire des sites web dynamiques et interactifs qui offriront des expériences mémorables à l'utilisateur. Mais chaque chose en son temps. Pour le moment afin de développer mes compétences, mon premier objectif est d'intégrer une formation diplômante de dévelopeur Web chez OpenClassrooms.
 
 
 <!--
