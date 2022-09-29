@@ -11,6 +11,7 @@ Je me forme actuellement en autodidacte pour devenir Développeur Web.
 
 ## En apprentissage et perfectionnement: </br>
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## Ce que je veux apprendre: </br>
 ![React.JS](https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
